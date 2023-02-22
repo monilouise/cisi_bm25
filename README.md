@@ -1,1 +1,12 @@
-# cisi_bm25
+# Utilizando o algoritmo BM25 para RI sobre o CISI
+
+Autora: Monique Louise de Barros Monteiro
+
+Este experimento objetiva validar o algoritmo BM25 como baseline para recuperação de informações (information retrieval - RI) sobre a base CISI, benchmark voltado para avaliação de algoritmos de RI. Adicionalmente, o agente ChatGPT foi empregado ao longo das etapas do experimento para obtenção de informações preliminares.
+
+Neste repositório, constam:
+
+* Arquivo contendo transcrição das principais interações com o ChatGPT, bem como análise de algumas informações oferecidas pelo agente:
+* Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Rank BM25:
+* Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Pyserini:
+* Relatório final
