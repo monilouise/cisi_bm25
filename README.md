@@ -6,7 +6,7 @@ Este experimento objetiva validar o algoritmo BM25 como baseline para recuperaç
 
 Neste repositório, constam:
 
-* Arquivo contendo transcrição das principais interações com o ChatGPT, bem como análise de algumas informações oferecidas pelo agente:
+* https://github.com/monilouise/cisi_bm25/blob/main/Consultas_ChatGPT.ipynb: Arquivo contendo transcrição das principais interações com o ChatGPT, bem como análise de algumas informações oferecidas pelo agente
 * Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Rank BM25:
 * Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Pyserini:
 * Relatório final
