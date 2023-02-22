@@ -1,12 +1,13 @@
-# Utilizando o algoritmo BM25 para RI sobre o CISI
+# Building a Simple Information Retrieval System using BM25 and GPT-3 and evaluated in the CISI collection
 
-Autora: Monique Louise de Barros Monteiro
+Author: Monique Louise de Barros Monteiro - moniquelouise@gmailcom
 
-Este experimento objetiva validar o algoritmo BM25 como baseline para recuperação de informações (information retrieval - RI) sobre a base CISI, benchmark voltado para avaliação de algoritmos de RI. Adicionalmente, o agente ChatGPT foi empregado ao longo das etapas do experimento para obtenção de informações preliminares.
+This experiment aims to validate the BM25 algorithm as a baseline for information retrieval (IR) on the CISI dataset, a benchmark aimed at evaluating IR algorithms. Additionally, the ChatGPT agent was employed throughout the experiment stages to obtain preliminary information.
 
-Neste repositório, constam:
 
-* [Consultas_ChatGPT](https://github.com/monilouise/cisi_bm25/blob/main/Consultas_ChatGPT.ipynb): Arquivo contendo transcrição das principais interações com o ChatGPT, bem como análise de algumas informações oferecidas pelo agente
-* [CISI_BM25_Rank_BM25](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Rank_BM25.ipynb): Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Rank BM25
-* [CISI_BM25_Pyserini](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Pyserini.ipynb): Arquivo notebook (.ipynb) com o experimento realizado com a biblioteca Pyserini
-* Relatório final
+In this repository, the following items are included:
+
+* [Consultas_ChatGPT](https://github.com/monilouise/cisi_bm25/blob/main/Consultas_ChatGPT.ipynb): A file containing transcripts of the main interactions with ChatGPT, as well as an analysis of some information provided by the agent.
+* [CISI_BM25_Rank_BM25](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Rank_BM25.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Rank BM25 library.
+* [CISI_BM25_Pyserini](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Pyserini.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Pyserini library.
+* Final report
