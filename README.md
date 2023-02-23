@@ -14,4 +14,4 @@ In this repository, the following items are included:
 
 ## Instructions
 
-In order to run the experiments, it's only necessary to upload the Jupyter notebooks (.ipynb files) and the dataset files to [Google Colab](https://colab.research.google.com).
+In order to run the experiments, it's only necessary to upload the Jupyter notebooks (ISI_BM25_Rank_BM25.ipynb and CISI_BM25_Pyserini.ipynb) and the dataset files (CISI.ALL, CISI.QRY and CISI.REL ) to [Google Colab](https://colab.research.google.com).
