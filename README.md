@@ -12,3 +12,6 @@ In this repository, the following items are included:
 * [CISI_BM25_Pyserini.ipynb](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Pyserini.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Pyserini library.
 * [report.pdf](https://github.com/monilouise/cisi_bm25/blob/main/report.pdf): A brief report describing the implementation details, results, how to test the IR system and how chatGPT helped with the project.
 
+## Instructions
+
+In order to run the experiments, it's only necessary to upload the Jupyter notebooks (.ipynb files) and the dataset files to [Google Colab](https://colab.research.google.com).
