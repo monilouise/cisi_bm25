@@ -7,8 +7,8 @@ This experiment aims to validate the BM25 algorithm as a baseline for informatio
 
 In this repository, the following items are included:
 
-* [Queries_ChatGPT](https://github.com/monilouise/cisi_bm25/blob/main/Queries_ChatGPT.ipynb): A file containing transcripts of the main interactions with ChatGPT, as well as an analysis of some information provided by the agent.
-* [CISI_BM25_Rank_BM25](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Rank_BM25.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Rank BM25 library.
-* [CISI_BM25_Pyserini](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Pyserini.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Pyserini library.
-* [report.pdf]: A brief report describing the implementation details, results, how to test the IR system and how chatGPT helped with the project.
+* [Queries_ChatGPT.ipynb](https://github.com/monilouise/cisi_bm25/blob/main/Queries_ChatGPT.ipynb): A file containing transcripts of the main interactions with ChatGPT, as well as an analysis of some information provided by the agent.
+* [CISI_BM25_Rank_BM25.ipynb](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Rank_BM25.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Rank BM25 library.
+* [CISI_BM25_Pyserini.ipynb](https://github.com/monilouise/cisi_bm25/blob/main/CISI_BM25_Pyserini.ipynb): A Jupyter notebook file (.ipynb) with the experiment performed using the Pyserini library.
+* [report.pdf](https://github.com/monilouise/cisi_bm25/blob/main/report.pdf): A brief report describing the implementation details, results, how to test the IR system and how chatGPT helped with the project.
 
